@@ -1101,4 +1101,1105 @@
     },
     "answer": "A"
   }
-];
+],
+  {
+    "id": 101,
+    "question": "A firm in a competitive market is a price taker because",
+    "options": {
+      "A": "it can influence market price by changing output",
+      "B": "buyers bargain individually with the firm",
+      "C": "the firm sells a product that is identical to many others",
+      "D": "the government sets its price"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "question": "If a competitive firm’s marginal cost is below market price, the firm should",
+    "options": {
+      "A": "increase output",
+      "B": "decrease output",
+      "C": "shut down immediately",
+      "D": "leave the market in the long run"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "question": "Which of the following best describes allocative efficiency?",
+    "options": {
+      "A": "Firms produce with the lowest possible average cost",
+      "B": "Resources are equally distributed among producers",
+      "C": "The government sets prices to ensure fairness",
+      "D": "Price equals marginal cost"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 104,
+    "question": "Productive efficiency occurs when a good is produced",
+    "options": {
+      "A": "at the highest possible price",
+      "B": "at the lowest possible average total cost",
+      "C": "where demand equals supply",
+      "D": "with maximum labor only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "When a monopoly maximizes profit, it chooses output where",
+    "options": {
+      "A": "P = MC",
+      "B": "P = MR",
+      "C": "MR = MC",
+      "D": "ATC is minimized"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "question": "Compared with a competitive market, a monopoly tends to charge",
+    "options": {
+      "A": "a lower price and produce more output",
+      "B": "the same price and output",
+      "C": "a lower price and less output",
+      "D": "a higher price and less output"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 107,
+    "question": "Which of the following is a barrier to entry that can create monopoly power?",
+    "options": {
+      "A": "Perfect information",
+      "B": "Product homogeneity",
+      "C": "Ownership of a key resource",
+      "D": "Many small buyers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "question": "A patent gives a firm",
+    "options": {
+      "A": "the right to avoid all taxes",
+      "B": "the right to charge any price without losing customers",
+      "C": "government ownership",
+      "D": "exclusive rights to produce a good or service for a period of time"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 109,
+    "question": "Price discrimination is the practice of",
+    "options": {
+      "A": "charging all customers the same price",
+      "B": "charging a price below marginal cost",
+      "C": "selling the same good to different customers at different prices",
+      "D": "changing price only when cost changes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 110,
+    "question": "For price discrimination to work, a firm must be able to",
+    "options": {
+      "A": "prevent resale among customers",
+      "B": "produce at zero marginal cost",
+      "C": "make all customers identical",
+      "D": "operate in perfect competition"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "In a contestable market, the threat of entry can",
+    "options": {
+      "A": "allow firms to charge higher prices permanently",
+      "B": "discipline incumbent firms to behave competitively",
+      "C": "eliminate all fixed costs",
+      "D": "guarantee monopoly profit"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "question": "Which of the following is most consistent with monopolistic competition?",
+    "options": {
+      "A": "One seller of a unique product",
+      "B": "Many sellers of an identical product",
+      "C": "A few firms selling identical output only",
+      "D": "Many sellers offering slightly differentiated products"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 113,
+    "question": "Examples of monopolistic competition include",
+    "options": {
+      "A": "restaurants and clothing brands",
+      "B": "local water utilities only",
+      "C": "wheat farms only",
+      "D": "national defense"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is true in long-run equilibrium under monopolistic competition?",
+    "options": {
+      "A": "P = MC and P = minimum ATC",
+      "B": "P > MC and firms earn zero economic profit",
+      "C": "Firms earn permanent positive economic profit",
+      "D": "There is no product differentiation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "question": "Excess capacity in monopolistic competition means firms produce",
+    "options": {
+      "A": "at a quantity greater than the efficient scale",
+      "B": "where P = MC",
+      "C": "at a quantity smaller than the one that minimizes ATC",
+      "D": "with zero fixed cost"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "question": "In an oligopoly, strategic interaction means that each firm’s decisions",
+    "options": {
+      "A": "do not affect other firms",
+      "B": "depend on the expected reactions of rival firms",
+      "C": "are determined by government regulation only",
+      "D": "eliminate uncertainty"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "question": "A cartel is",
+    "options": {
+      "A": "a group of firms acting together to reduce competition",
+      "B": "a government tax authority",
+      "C": "a consumer advocacy group",
+      "D": "a labor union"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "question": "Cartels are often unstable because",
+    "options": {
+      "A": "they always maximize consumer surplus",
+      "B": "governments subsidize them",
+      "C": "they face no legal issues",
+      "D": "each member has an incentive to cheat on the agreement"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 119,
+    "question": "Game theory is useful in analyzing oligopoly because it studies",
+    "options": {
+      "A": "how firms minimize fixed costs only",
+      "B": "government budget constraints",
+      "C": "strategic behavior among interdependent decision makers",
+      "D": "consumer indifference curves"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 120,
+    "question": "A dominant strategy is one that",
+    "options": {
+      "A": "is best only when rivals cooperate",
+      "B": "is best for a player regardless of what other players do",
+      "C": "maximizes rivals’ profits",
+      "D": "is illegal under antitrust law"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "question": "Antitrust laws are designed primarily to",
+    "options": {
+      "A": "guarantee profits for large firms",
+      "B": "support collusion",
+      "C": "prevent competition",
+      "D": "promote competition and limit monopoly power"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is most likely illegal under antitrust law?",
+    "options": {
+      "A": "Product differentiation",
+      "B": "Advertising",
+      "C": "Explicit price fixing among rival firms",
+      "D": "Charging a lower price during a sale"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "question": "Horizontal mergers combine firms",
+    "options": {
+      "A": "from different stages of production",
+      "B": "from unrelated industries",
+      "C": "with suppliers only",
+      "D": "in the same industry"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 124,
+    "question": "Vertical integration occurs when a firm",
+    "options": {
+      "A": "merges only with competitors",
+      "B": "splits into smaller firms",
+      "C": "sells products internationally",
+      "D": "controls multiple stages of production or distribution"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 125,
+    "question": "Negative externalities cause marginal social cost to be",
+    "options": {
+      "A": "equal to private marginal cost",
+      "B": "greater than private marginal cost",
+      "C": "less than private marginal cost",
+      "D": "always zero"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "question": "Positive externalities cause marginal social benefit to be",
+    "options": {
+      "A": "less than private marginal benefit",
+      "B": "equal to private marginal benefit",
+      "C": "greater than private marginal benefit",
+      "D": "negative"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "question": "A Pigouvian tax is levied to",
+    "options": {
+      "A": "correct a negative externality",
+      "B": "encourage monopoly",
+      "C": "reduce imports only",
+      "D": "subsidize consumers directly"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "question": "A Pigouvian subsidy is often used to",
+    "options": {
+      "A": "reduce production of goods with negative externalities",
+      "B": "raise prices above competitive levels",
+      "C": "eliminate the need for markets",
+      "D": "encourage activities with positive externalities"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 129,
+    "question": "Which of the following is an example of a negative externality?",
+    "options": {
+      "A": "Vaccination",
+      "B": "Education",
+      "C": "Research and development",
+      "D": "Air pollution from a factory"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is an example of a positive externality?",
+    "options": {
+      "A": "Noise from an airport",
+      "B": "Secondhand smoke",
+      "C": "Immunization against infectious disease",
+      "D": "Traffic congestion"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "question": "Tradable pollution permits are intended to",
+    "options": {
+      "A": "ban all production",
+      "B": "reduce pollution at lower overall cost",
+      "C": "guarantee identical pollution levels for every firm",
+      "D": "eliminate all market incentives"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "question": "The Coase theorem is more likely to apply successfully when",
+    "options": {
+      "A": "transaction costs are high",
+      "B": "transaction costs are low",
+      "C": "property rights are unclear",
+      "D": "there are many parties and bargaining is impossible"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is a public good?",
+    "options": {
+      "A": "A movie ticket",
+      "B": "A hamburger",
+      "C": "A lighthouse",
+      "D": "A bicycle"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "question": "National defense is typically cited as",
+    "options": {
+      "A": "a private good",
+      "B": "a common resource",
+      "C": "a public good",
+      "D": "a club good"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "question": "The free-rider problem is most severe for goods that are",
+    "options": {
+      "A": "rival and excludable",
+      "B": "rival and nonexcludable only",
+      "C": "nonrival and nonexcludable",
+      "D": "excludable and nonrival only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 136,
+    "question": "A common resource is vulnerable to overuse because it is",
+    "options": {
+      "A": "excludable and nonrival",
+      "B": "rival in consumption but hard to exclude users from",
+      "C": "a public good by nature",
+      "D": "always provided by government"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 137,
+    "question": "Which of the following best illustrates the tragedy of the commons?",
+    "options": {
+      "A": "Underuse of a private park",
+      "B": "Too many people buying movie tickets",
+      "C": "Government overspending on defense",
+      "D": "Overfishing in open-access waters"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 138,
+    "question": "A private good is both",
+    "options": {
+      "A": "nonrival and nonexcludable",
+      "B": "nonrival and excludable",
+      "C": "rival and excludable",
+      "D": "rival and nonexcludable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 139,
+    "question": "A club good is generally",
+    "options": {
+      "A": "nonrival up to a point and excludable",
+      "B": "rival and nonexcludable",
+      "C": "nonrival and nonexcludable",
+      "D": "rival and excludable"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "Examples of club goods include",
+    "options": {
+      "A": "public sidewalks",
+      "B": "fish in the ocean",
+      "C": "subscription streaming services",
+      "D": "national defense"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 141,
+    "question": "A factor market is a market in which",
+    "options": {
+      "A": "finished goods are bought and sold",
+      "B": "households purchase consumer goods only",
+      "C": "governments determine all wages",
+      "D": "inputs such as labor, land, and capital are bought and sold"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 142,
+    "question": "The demand for labor curve of a competitive firm is the",
+    "options": {
+      "A": "average product curve",
+      "B": "value of the marginal product curve",
+      "C": "marginal cost curve",
+      "D": "average variable cost curve"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "question": "A competitive firm will hire labor until",
+    "options": {
+      "A": "the wage exceeds marginal product",
+      "B": "the value of marginal product equals the wage",
+      "C": "average total cost is minimized",
+      "D": "profit is zero"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 144,
+    "question": "If the price of a firm’s output rises, then the demand for labor by that firm will",
+    "options": {
+      "A": "decrease",
+      "B": "stay unchanged",
+      "C": "increase",
+      "D": "become perfectly inelastic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 145,
+    "question": "Human capital refers to",
+    "options": {
+      "A": "workers’ education, skills, and experience",
+      "B": "machines owned by households",
+      "C": "financial capital only",
+      "D": "natural resources"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 146,
+    "question": "Compensating differentials are wage differences that arise because",
+    "options": {
+      "A": "workers are identical",
+      "B": "government fixes all wages",
+      "C": "firms collude on wage rates",
+      "D": "jobs differ in nonmonetary characteristics"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 147,
+    "question": "A worker’s reservation wage is",
+    "options": {
+      "A": "the lowest wage at which the worker is willing to accept a job",
+      "B": "the wage set by unions",
+      "C": "the maximum wage firms are willing to pay",
+      "D": "the wage equal to average total cost"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "question": "A labor union attempts to",
+    "options": {
+      "A": "reduce worker bargaining power",
+      "B": "increase firm profits only",
+      "C": "eliminate all unemployment",
+      "D": "improve wages and working conditions for its members"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 149,
+    "question": "Minimum wage laws, if set above equilibrium wage, tend to",
+    "options": {
+      "A": "eliminate unemployment",
+      "B": "reduce labor supply",
+      "C": "create a surplus of labor",
+      "D": "have no effect on employment"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 150,
+    "question": "The production function shows the relationship between",
+    "options": {
+      "A": "price and quantity demanded",
+      "B": "inputs and output",
+      "C": "cost and revenue",
+      "D": "wages and employment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "question": "Marginal product is the",
+    "options": {
+      "A": "additional output produced by an additional unit of input",
+      "B": "average output per unit of input",
+      "C": "total output divided by price",
+      "D": "extra revenue from one more unit sold"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 152,
+    "question": "Diminishing marginal product means that as more of an input is employed, the marginal product of that input",
+    "options": {
+      "A": "eventually falls",
+      "B": "always rises",
+      "C": "becomes negative immediately",
+      "D": "equals average total cost"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following is an explicit cost?",
+    "options": {
+      "A": "Wages paid to workers",
+      "B": "Forgone salary of the owner",
+      "C": "Normal profit",
+      "D": "Opportunity cost of owner’s time"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is an implicit cost?",
+    "options": {
+      "A": "Rent paid for an office",
+      "B": "Income the owner could have earned working elsewhere",
+      "C": "Utility bill paid in cash",
+      "D": "Raw materials expense"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 155,
+    "question": "Economic profit equals total revenue minus",
+    "options": {
+      "A": "explicit and implicit costs",
+      "B": "explicit costs only",
+      "C": "fixed costs only",
+      "D": "marginal costs only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "question": "Accounting profit differs from economic profit because accounting profit ignores",
+    "options": {
+      "A": "explicit costs",
+      "B": "total revenue",
+      "C": "fixed costs",
+      "D": "implicit costs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 157,
+    "question": "Total cost equals",
+    "options": {
+      "A": "average fixed cost plus marginal cost",
+      "B": "average variable cost plus average fixed cost",
+      "C": "total fixed cost plus total variable cost",
+      "D": "price times quantity"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 158,
+    "question": "Average total cost is calculated as",
+    "options": {
+      "A": "TC divided by quantity",
+      "B": "MC divided by quantity",
+      "C": "price minus AVC",
+      "D": "TFC plus TVC"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 159,
+    "question": "Marginal cost is the",
+    "options": {
+      "A": "change in total cost from producing one more unit of output",
+      "B": "change in average cost from producing one more unit",
+      "C": "cost of fixed inputs only",
+      "D": "cost divided by output"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "question": "As output rises, average fixed cost",
+    "options": {
+      "A": "rises",
+      "B": "stays constant",
+      "C": "falls",
+      "D": "first rises then falls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 161,
+    "question": "The marginal-cost curve typically slopes upward because of",
+    "options": {
+      "A": "increasing returns to scale always",
+      "B": "falling fixed costs",
+      "C": "diminishing marginal product",
+      "D": "price controls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 162,
+    "question": "When marginal cost is below average total cost, average total cost is",
+    "options": {
+      "A": "falling",
+      "B": "rising",
+      "C": "constant",
+      "D": "zero"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "question": "When marginal cost is above average total cost, average total cost is",
+    "options": {
+      "A": "rising",
+      "B": "falling",
+      "C": "constant",
+      "D": "negative"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "question": "A competitive firm’s total revenue equals",
+    "options": {
+      "A": "MC × Q",
+      "B": "ATC × Q",
+      "C": "Price × Quantity",
+      "D": "AVC × Q"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 165,
+    "question": "For a competitive firm, average revenue equals",
+    "options": {
+      "A": "price",
+      "B": "marginal cost",
+      "C": "average total cost",
+      "D": "profit"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "question": "For a competitive firm, marginal revenue equals",
+    "options": {
+      "A": "price",
+      "B": "average fixed cost",
+      "C": "marginal cost always",
+      "D": "profit per unit"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "question": "In the short run, a competitive firm should shut down if",
+    "options": {
+      "A": "P > ATC",
+      "B": "P = MC",
+      "C": "P > AVC",
+      "D": "P < AVC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 168,
+    "question": "In the long run, a firm exits the market when",
+    "options": {
+      "A": "P > ATC",
+      "B": "P = MC",
+      "C": "P > AVC",
+      "D": "P < ATC"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 169,
+    "question": "A competitive firm’s short-run supply curve is the portion of",
+    "options": {
+      "A": "the MC curve above AVC",
+      "B": "the ATC curve above AVC",
+      "C": "the demand curve above ATC",
+      "D": "the AVC curve above MC"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "When firms in a competitive market earn positive economic profit, in the long run",
+    "options": {
+      "A": "firms exit and price rises",
+      "B": "nothing happens",
+      "C": "new firms enter and price falls",
+      "D": "the government imposes a price floor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 171,
+    "question": "When firms in a competitive market suffer losses, in the long run",
+    "options": {
+      "A": "some firms exit and price rises",
+      "B": "new firms enter and price falls",
+      "C": "marginal cost becomes zero",
+      "D": "demand becomes perfectly elastic"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "question": "Long-run equilibrium in a competitive market occurs when",
+    "options": {
+      "A": "P > ATC",
+      "B": "P = minimum ATC",
+      "C": "MR > MC",
+      "D": "AVC is rising"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 173,
+    "question": "If demand increases in a competitive market, then in the short run",
+    "options": {
+      "A": "price falls",
+      "B": "some firms exit immediately",
+      "C": "price rises and firms may earn profits",
+      "D": "ATC must fall"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "If firms enter a competitive market, market supply",
+    "options": {
+      "A": "shifts left",
+      "B": "shifts right",
+      "C": "does not change",
+      "D": "becomes perfectly inelastic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "question": "A monopolist’s demand curve is",
+    "options": {
+      "A": "horizontal because the firm is a price taker",
+      "B": "the market demand curve",
+      "C": "the market supply curve",
+      "D": "always perfectly inelastic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "question": "Because a monopolist must lower price to sell more units, marginal revenue is",
+    "options": {
+      "A": "greater than price",
+      "B": "less than price",
+      "C": "equal to price",
+      "D": "unrelated to quantity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "question": "A profit-maximizing monopolist chooses quantity where",
+    "options": {
+      "A": "P = MC",
+      "B": "P = MR",
+      "C": "ATC is minimized",
+      "D": "MR = MC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 178,
+    "question": "After choosing the profit-maximizing quantity, a monopolist charges the price",
+    "options": {
+      "A": "on the demand curve for that quantity",
+      "B": "equal to marginal cost",
+      "C": "equal to average variable cost",
+      "D": "equal to average total cost"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 179,
+    "question": "Relative to the social optimum, monopoly output is",
+    "options": {
+      "A": "too high",
+      "B": "too low",
+      "C": "exactly efficient",
+      "D": "unrelated to efficiency"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "question": "The deadweight loss from monopoly arises because",
+    "options": {
+      "A": "the monopolist produces where P = MC",
+      "B": "some mutually beneficial trades do not occur",
+      "C": "consumer surplus is always zero",
+      "D": "the monopolist pays high fixed costs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "question": "If a monopolist can perfectly price discriminate, then",
+    "options": {
+      "A": "deadweight loss can be reduced or eliminated",
+      "B": "output falls below monopoly level",
+      "C": "consumer surplus rises sharply",
+      "D": "MR becomes greater than price"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "question": "Examples of first-degree price discrimination include",
+    "options": {
+      "A": "charging one price to everyone",
+      "B": "seasonal sales only",
+      "C": "student discounts only",
+      "D": "charging each customer their exact willingness to pay"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 183,
+    "question": "A natural monopoly is likely when",
+    "options": {
+      "A": "economies of scale exist over the relevant range of output",
+      "B": "marginal cost is above average total cost everywhere",
+      "C": "products are highly differentiated",
+      "D": "there are no fixed costs"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "question": "One policy response to natural monopoly is",
+    "options": {
+      "A": "to ignore it because it is always efficient",
+      "B": "price regulation",
+      "C": "to impose tariffs",
+      "D": "to require many identical firms"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "question": "Marginal-cost pricing for a natural monopoly may require government subsidy because",
+    "options": {
+      "A": "MC is always above ATC",
+      "B": "demand becomes perfectly elastic",
+      "C": "the firm becomes competitive",
+      "D": "price may be below average total cost"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 186,
+    "question": "Average-cost pricing regulation sets price",
+    "options": {
+      "A": "equal to average total cost",
+      "B": "below marginal cost always",
+      "C": "equal to zero profit in accounting terms only",
+      "D": "equal to consumer surplus"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 187,
+    "question": "A monopolistically competitive firm’s demand curve is",
+    "options": {
+      "A": "horizontal",
+      "B": "downward sloping",
+      "C": "vertical",
+      "D": "perfectly inelastic"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 188,
+    "question": "In monopolistic competition, free entry drives",
+    "options": {
+      "A": "price to equal marginal cost",
+      "B": "marginal revenue to equal price",
+      "C": "economic profit toward zero in the long run",
+      "D": "all firms to produce identical products"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 189,
+    "question": "Advertising in monopolistic competition may",
+    "options": {
+      "A": "always be socially wasteful",
+      "B": "convey useful information and increase brand loyalty",
+      "C": "be prohibited in all markets",
+      "D": "eliminate product differentiation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "question": "Brand names can provide value to consumers by",
+    "options": {
+      "A": "guaranteeing lowest price",
+      "B": "eliminating all uncertainty",
+      "C": "signaling quality or consistency",
+      "D": "ending competition"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 191,
+    "question": "If two firms in an oligopoly both choose low output, they may",
+    "options": {
+      "A": "earn monopoly-like profits",
+      "B": "face perfect competition",
+      "C": "always maximize social welfare",
+      "D": "be unable to sell any output"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 192,
+    "question": "In the prisoner’s dilemma, each player acting in self-interest can lead to",
+    "options": {
+      "A": "the best outcome for both",
+      "B": "no Nash equilibrium",
+      "C": "higher combined profit than cooperation",
+      "D": "an outcome that is worse for both than cooperation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 193,
+    "question": "A Nash equilibrium is a situation in which",
+    "options": {
+      "A": "both players cooperate",
+      "B": "government chooses the efficient outcome",
+      "C": "each player chooses the best strategy given the other player’s strategy",
+      "D": "all firms earn zero profit"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 194,
+    "question": "When oligopolists repeatedly interact, collusion may be easier to sustain because",
+    "options": {
+      "A": "demand becomes perfectly inelastic",
+      "B": "marginal cost becomes constant",
+      "C": "there is no incentive to cheat",
+      "D": "firms can punish cheating in future periods"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 195,
+    "question": "If labor supply increases, holding demand constant, the equilibrium wage tends to",
+    "options": {
+      "A": "fall",
+      "B": "rise",
+      "C": "stay the same always",
+      "D": "become negative"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 196,
+    "question": "If labor demand increases, holding supply constant, the equilibrium wage tends to",
+    "options": {
+      "A": "fall",
+      "B": "stay the same",
+      "C": "cause unemployment only",
+      "D": "rise"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 197,
+    "question": "A rise in human capital generally tends to",
+    "options": {
+      "A": "increase worker productivity and wages",
+      "B": "reduce labor demand permanently",
+      "C": "eliminate compensating differentials",
+      "D": "make education worthless"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "question": "Discrimination in labor markets can lead to",
+    "options": {
+      "A": "higher efficiency always",
+      "B": "perfect wage equality",
+      "C": "workers with similar productivity being paid differently",
+      "D": "the elimination of labor supply"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 199,
+    "question": "Tournament theory suggests that large pay differences within firms may",
+    "options": {
+      "A": "always reduce effort",
+      "B": "be irrelevant to worker behavior",
+      "C": "create incentives for effort and advancement",
+      "D": "eliminate productivity differences"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 200,
+    "question": "Efficiency wages are wages paid above equilibrium in order to",
+    "options": {
+      "A": "reduce worker productivity",
+      "B": "eliminate all unemployment",
+      "C": "make all firms identical",
+      "D": "increase worker productivity, loyalty, or effort"
+    },
+    "answer": "D"
+  };
+    
