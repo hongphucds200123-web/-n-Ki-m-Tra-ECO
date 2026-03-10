@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ECO111 Review App</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-badge">E</div>
+        <div>
+          <h1>ECO111 Review</h1>
+          <p>Study smarter. Miss less. Strike harder.</p>
+        </div>
+      </div>
+
+      <section class="panel">
+        <h2>Study Setup</h2>
+        <label class="field">
+          <span>Mode</span>
+          <select id="mode">
+            <option value="all">All questions</option>
+            <option value="wrong">Wrong questions only</option>
+            <option value="unanswered">Never done before</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Question order</span>
+          <select id="order">
+            <option value="random">Random</option>
+            <option value="sequential">Sequential</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Questions per session</span>
+          <input id="questionCount" type="number" min="1" value="20" />
+        </label>
+
+        <label class="field">
+          <span>Time limit (minutes)</span>
+          <input id="timeLimit" type="number" min="0" value="20" />
+          <small>Set 0 for no timer.</small>
+        </label>
+
+        <label class="check">
+          <input id="instantFeedback" type="checkbox" />
+          <span>Show answer immediately after each question</span>
+        </label>
+
+        <div class="actions">
+          <button id="startBtn" class="btn primary">Start session</button>
+          <button id="resumeWrongBtn" class="btn ghost">Review wrong answers</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Progress</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span>Total bank</span>
+            <strong id="statTotal">0</strong>
+          </div>
+          <div class="stat-card">
+            <span>Wrong saved</span>
+            <strong id="statWrong">0</strong>
+          </div>
+          <div class="stat-card">
+            <span>Completed</span>
+            <strong id="statCompleted">0</strong>
+          </div>
+          <div class="stat-card">
+            <span>Accuracy</span>
+            <strong id="statAccuracy">0%</strong>
+          </div>
+        </div>
+        <div class="actions compact">
+          <button id="clearWrongBtn" class="btn danger-soft">Clear wrong list</button>
+          <button id="resetProgressBtn" class="btn danger-soft">Reset all progress</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>How to add more questions</h2>
+        <p>Edit only <code>questions.js</code>. Each question is one object with <code>id</code>, <code>question</code>, <code>options</code>, and <code>answer</code>.</p>
+      </section>
+    </aside>
+
+    <main class="main-content">
+      <section id="welcomeView" class="hero">
+        <div class="hero-card">
+          <p class="eyebrow">Question bank separated from app logic</p>
+          <h2>A cleaner battlefield for revision</h2>
+          <p>
+            This app lets you randomize questions, set custom time, choose custom session size,
+            and revisit every wrong answer until they stop haunting you.
+          </p>
+          <div class="hero-tags">
+            <span>Wrong-answer review</span>
+            <span>Random mode</span>
+            <span>Timer control</span>
+            <span>Easy to expand</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="quizView" class="quiz hidden">
+        <div class="topbar">
+          <div class="session-meta">
+            <div class="pill">Question <span id="currentIndex">1</span>/<span id="totalInSession">1</span></div>
+            <div class="pill">Score <span id="currentScore">0</span></div>
+          </div>
+          <div class="timer-box" id="timerBox">--:--</div>
+        </div>
+
+        <div class="question-card">
+          <div class="question-head">
+            <span class="question-number" id="questionNumber">#1</span>
+            <button id="markWrongBtn" class="btn tiny ghost">Add to wrong list</button>
+          </div>
+          <h3 id="questionText">Question text here</h3>
+          <div id="optionsContainer" class="options"></div>
+          <div id="feedbackBox" class="feedback hidden"></div>
+
+          <div class="quiz-actions">
+            <button id="prevBtn" class="btn ghost">Previous</button>
+            <button id="submitBtn" class="btn primary">Submit answer</button>
+            <button id="nextBtn" class="btn secondary">Next</button>
+            <button id="finishBtn" class="btn success">Finish</button>
+          </div>
+        </div>
+
+        <div class="bottom-strip">
+          <div class="progress-track">
+            <div id="progressFill" class="progress-fill"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="resultView" class="results hidden">
+        <div class="result-card">
+          <p class="eyebrow">Session complete</p>
+          <h2 id="resultTitle">You did it.</h2>
+          <div class="result-stats">
+            <div><span>Correct</span><strong id="resultCorrect">0</strong></div>
+            <div><span>Wrong</span><strong id="resultWrong">0</strong></div>
+            <div><span>Accuracy</span><strong id="resultAccuracy">0%</strong></div>
+            <div><span>Time used</span><strong id="resultTime">0m</strong></div>
+          </div>
+
+          <div class="result-actions">
+            <button id="restartBtn" class="btn primary">Start new session</button>
+            <button id="reviewMistakesBtn" class="btn secondary">Review mistakes now</button>
+          </div>
+
+          <div class="mistake-list-wrap">
+            <h3>Mistakes in this session</h3>
+            <div id="mistakeList" class="mistake-list"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
