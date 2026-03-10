@@ -1,4 +1,4 @@
-const QUESTION_BANK = [
+
  const QUESTION_BANK = [
   {
     "id": 1,
