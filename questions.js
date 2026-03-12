@@ -1102,57 +1102,61 @@
     "answer": "A"
   },
   {
-    "id": 101,
-    "question": "A firm in a competitive market is a price taker because",
-    "options": {
-      "A": "it can influence market price by changing output",
-      "B": "buyers bargain individually with the firm",
-      "C": "the firm sells a product that is identical to many others",
-      "D": "the government sets its price"
-    },
-    "answer": "C"
+    {
+  "id": 101,
+  "question": "A firm in a competitive market is a price taker because",
+  "options": {
+    "A": "it can influence market price by changing output",
+    "B": "buyers bargain individually with the firm",
+    "C": "the firm sells a product that is identical to many others",
+    "D": "the government sets its price"
   },
-  {
-    "id": 102,
-    "question": "If a competitive firm’s marginal cost is below market price, the firm should",
-    "options": {
-      "A": "increase output",
-      "B": "decrease output",
-      "C": "shut down immediately",
-      "D": "leave the market in the long run"
-    },
-    "answer": "A"
+  "answer": "C"
+},
+{
+  "id": 102,
+  "question": "If a competitive firm’s marginal cost is below market price, the firm should",
+  "options": {
+    "A": "increase output",
+    "B": "decrease output",
+    "C": "shut down immediately",
+    "D": "leave the market in the long run"
   },
-  {
-    "id": 103,
-    "question": "Which of the following best describes allocative efficiency?",
-    "options": {
-      "A": "Firms produce with the lowest possible average cost",
-      "B": "Resources are equally distributed among producers",
-      "C": "The government sets prices to ensure fairness",
-      "D": "Price equals marginal cost"
-    },
-    "answer": "D"
+  "answer": "A"
+},
+{
+  "id": 103,
+  "question": "Which of the following best describes allocative efficiency?",
+  "options": {
+    "A": "Firms produce with the lowest possible average cost",
+    "B": "Resources are equally distributed among producers",
+    "C": "The government sets prices to ensure fairness",
+    "D": "Price equals marginal cost"
   },
-  {
-    "id": 104,
-    "question": "Productive efficiency occurs when a good is produced",
-    "options": {
-      "A": "at the highest possible price",
-      "B": "at the lowest possible average total cost",
-      "C": "where demand equals supply",
-      "D": "with maximum labor only"
-    },
-    "answer": "B"
+  "answer": "D"
+},
+{
+  "id": 104,
+  "question": "Productive efficiency occurs when a good is produced",
+  "options": {
+    "A": "at the highest possible price",
+    "B": "at the lowest possible average total cost",
+    "C": "where demand equals supply",
+    "D": "with maximum labor only"
   },
-  {
-    "id": 105,
-    "question": "When a monopoly maximizes profit, it chooses output where",
-    "options": {
-      "A": "P = MC",
-      "B": "P = MR",
-      "C": "MR = MC",
-      "D": "ATC is minimized"
+  "answer": "B"
+},
+{
+  "id": 105,
+  "question": "When a monopoly maximizes profit, it chooses output where",
+  "options": {
+    "A": "P = MC",
+    "B": "P = MR",
+    "C": "MR = MC",
+    "D": "ATC is minimized"
+  },
+  "answer": "C"
+},
     },
     "answer": "C"
   },
