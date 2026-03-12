@@ -1100,8 +1100,7 @@
       "D": "firms in the sector will use their market power"
     },
     "answer": "A"
-  }
-],
+  },
   {
     "id": 101,
     "question": "A firm in a competitive market is a price taker because",
