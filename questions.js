@@ -2202,5 +2202,1095 @@
     },
       "answer": "D"
 }
-];
+],
+  {
+  "id": 201,
+  "question": "When a market is in equilibrium, there is",
+  "options": {
+    "A": "a shortage",
+    "B": "no pressure for price to change",
+    "C": "a surplus",
+    "D": "government intervention"
+  },
+  "answer": "B"
+},
+{
+  "id": 202,
+  "question": "A shift in demand means that",
+  "options": {
+    "A": "buyers change the quantity they purchase at every price",
+    "B": "price changes and the curve stays fixed",
+    "C": "only supply changes",
+    "D": "the market becomes inefficient"
+  },
+  "answer": "A"
+},
+{
+  "id": 203,
+  "question": "If consumer income rises and demand for a good rises, that good is",
+  "options": {
+    "A": "a normal good",
+    "B": "an inferior good",
+    "C": "a public good",
+    "D": "a common resource"
+  },
+  "answer": "A"
+},
+{
+  "id": 204,
+  "question": "If the price of one good rises and demand for another good rises, the two goods are likely",
+  "options": {
+    "A": "substitutes",
+    "B": "complements",
+    "C": "inferior goods",
+    "D": "public goods"
+  },
+  "answer": "A"
+},
+{
+  "id": 205,
+  "question": "A binding price floor causes",
+  "options": {
+    "A": "a shortage",
+    "B": "no effect on the market",
+    "C": "a surplus",
+    "D": "a leftward shift of supply"
+  },
+  "answer": "C"
+},
+{
+  "id": 206,
+  "question": "A binding price ceiling causes",
+  "options": {
+    "A": "a shortage",
+    "B": "a surplus",
+    "C": "a rise in equilibrium price",
+    "D": "a rightward shift in demand"
+  },
+  "answer": "A"
+},
+{
+  "id": 207,
+  "question": "Total surplus in a market is the sum of",
+  "options": {
+    "A": "consumer surplus and tax revenue only",
+    "B": "consumer surplus and producer surplus",
+    "C": "producer surplus and fixed cost",
+    "D": "private cost and social cost"
+  },
+  "answer": "B"
+},
+{
+  "id": 208,
+  "question": "A market is efficient when it",
+  "options": {
+    "A": "maximizes total surplus",
+    "B": "ensures equal outcomes for all buyers",
+    "C": "always gives producers the highest profit",
+    "D": "eliminates all scarcity"
+  },
+  "answer": "A"
+},
+{
+  "id": 209,
+  "question": "Deadweight loss from a tax is the reduction in",
+  "options": {
+    "A": "government revenue",
+    "B": "producer surplus only",
+    "C": "total surplus",
+    "D": "fixed cost"
+  },
+  "answer": "C"
+},
+{
+  "id": 210,
+  "question": "As a tax on a good increases, the deadweight loss from the tax generally",
+  "options": {
+    "A": "falls",
+    "B": "stays constant",
+    "C": "rises",
+    "D": "becomes zero"
+  },
+  "answer": "C"
+},
+{
+  "id": 211,
+  "question": "The more elastic demand or supply is, the",
+  "options": {
+    "A": "smaller the deadweight loss from a tax",
+    "B": "larger the deadweight loss from a tax",
+    "C": "smaller the tax revenue always",
+    "D": "more efficient the tax becomes"
+  },
+  "answer": "B"
+},
+{
+  "id": 212,
+  "question": "The burden of a tax falls more heavily on the side of the market that is",
+  "options": {
+    "A": "more elastic",
+    "B": "perfectly competitive",
+    "C": "larger in number",
+    "D": "less elastic"
+  },
+  "answer": "B"
+},
+{
+  "id": 213,
+  "question": "If supply is perfectly inelastic, a tax on the good is paid",
+  "options": {
+    "A": "entirely by buyers",
+    "B": "equally by buyers and sellers",
+    "C": "entirely by sellers",
+    "D": "by nobody"
+  },
+  "answer": "C"
+},
+{
+  "id": 214,
+  "question": "If demand is perfectly inelastic, a tax on the good is paid",
+  "options": {
+    "A": "entirely by sellers",
+    "B": "entirely by buyers",
+    "C": "equally by buyers and sellers",
+    "D": "by the government"
+  },
+  "answer": "B"
+},
+{
+  "id": 215,
+  "question": "Economists usually favor taxes over price controls because taxes",
+  "options": {
+    "A": "always increase fairness",
+    "B": "create no deadweight loss",
+    "C": "allow markets to allocate goods while raising revenue",
+    "D": "eliminate shortages completely"
+  },
+  "answer": "C"
+},
+{
+  "id": 216,
+  "question": "A tariff is a tax on",
+  "options": {
+    "A": "imports",
+    "B": "exports",
+    "C": "income",
+    "D": "labor"
+  },
+  "answer": "A"
+},
+{
+  "id": 217,
+  "question": "Comparative advantage is based on",
+  "options": {
+    "A": "opportunity cost",
+    "B": "absolute productivity only",
+    "C": "government policy",
+    "D": "total revenue"
+  },
+  "answer": "A"
+},
+{
+  "id": 218,
+  "question": "A person has a comparative advantage in producing a good if that person can produce it",
+  "options": {
+    "A": "at lower opportunity cost than another producer",
+    "B": "with fewer resources in absolute terms only",
+    "C": "with higher explicit cost",
+    "D": "at higher market price"
+  },
+  "answer": "A"
+},
+{
+  "id": 219,
+  "question": "Trade can benefit everyone when",
+  "options": {
+    "A": "each side specializes according to comparative advantage",
+    "B": "both sides have identical opportunity costs",
+    "C": "there is no specialization",
+    "D": "government bans imports"
+  },
+  "answer": "A"
+},
+{
+  "id": 220,
+  "question": "A country that opens to trade and becomes an importer of a good will usually see domestic price",
+  "options": {
+    "A": "rise above world price",
+    "B": "stay unchanged forever",
+    "C": "equal world price only with tariff",
+    "D": "fall toward world price"
+  },
+  "answer": "D"
+},
+{
+  "id": 221,
+  "question": "When a country exports a good, domestic producers",
+  "options": {
+    "A": "lose from trade",
+    "B": "are unaffected",
+    "C": "face lower prices",
+    "D": "gain from higher prices"
+  },
+  "answer": "D"
+},
+{
+  "id": 222,
+  "question": "When a country imports a good, domestic consumers generally",
+  "options": {
+    "A": "lose because prices rise",
+    "B": "are unaffected",
+    "C": "gain because prices fall",
+    "D": "always pay tariffs directly"
+  },
+  "answer": "C"
+},
+{
+  "id": 223,
+  "question": "A tariff on imports tends to",
+  "options": {
+    "A": "increase total surplus",
+    "B": "benefit consumers more than producers",
+    "C": "create deadweight loss",
+    "D": "eliminate government revenue"
+  },
+  "answer": "C"
+},
+{
+  "id": 224,
+  "question": "A production possibilities frontier shows",
+  "options": {
+    "A": "the combinations of output that can be produced given resources and technology",
+    "B": "consumer demand at different prices",
+    "C": "tax revenue at different tax rates",
+    "D": "firm profit at different wages"
+  },
+  "answer": "A"
+},
+{
+  "id": 225,
+  "question": "Points inside the production possibilities frontier are",
+  "options": {
+    "A": "efficient",
+    "B": "inefficient",
+    "C": "unattainable",
+    "D": "socially optimal"
+  },
+  "answer": "B"
+},
+{
+  "id": 226,
+  "question": "Points outside the production possibilities frontier are",
+  "options": {
+    "A": "efficient",
+    "B": "inefficient",
+    "C": "unattainable with current resources",
+    "D": "always preferred by producers"
+  },
+  "answer": "C"
+},
+{
+  "id": 227,
+  "question": "Economic growth can be shown by",
+  "options": {
+    "A": "an inward shift of the PPF",
+    "B": "movement inside the PPF",
+    "C": "a downward shift in demand",
+    "D": "an outward shift of the PPF"
+  },
+  "answer": "D"
+},
+{
+  "id": 228,
+  "question": "The law of demand states that, other things equal, when price rises",
+  "options": {
+    "A": "quantity demanded rises",
+    "B": "quantity demanded falls",
+    "C": "demand shifts right",
+    "D": "supply shifts left"
+  },
+  "answer": "B"
+},
+{
+  "id": 229,
+  "question": "The law of supply states that, other things equal, when price rises",
+  "options": {
+    "A": "quantity supplied falls",
+    "B": "quantity supplied rises",
+    "C": "supply shifts left",
+    "D": "demand rises"
+  },
+  "answer": "B"
+},
+{
+  "id": 230,
+  "question": "An increase in consumer income will shift demand for a normal good",
+  "options": {
+    "A": "left",
+    "B": "not at all",
+    "C": "downward",
+    "D": "right"
+  },
+  "answer": "D"
+},
+{
+  "id": 231,
+  "question": "An increase in the price of an input used in production tends to",
+  "options": {
+    "A": "increase supply",
+    "B": "decrease supply",
+    "C": "increase demand",
+    "D": "reduce quantity demanded"
+  },
+  "answer": "B"
+},
+{
+  "id": 232,
+  "question": "A technological improvement in production tends to",
+  "options": {
+    "A": "decrease supply",
+    "B": "increase supply",
+    "C": "decrease demand",
+    "D": "increase price directly"
+  },
+  "answer": "B"
+},
+{
+  "id": 233,
+  "question": "Normative statements are based on",
+  "options": {
+    "A": "opinions and value judgments",
+    "B": "facts only",
+    "C": "mathematical identity only",
+    "D": "market equilibrium only"
+  },
+  "answer": "A"
+},
+{
+  "id": 234,
+  "question": "Positive statements are based on",
+  "options": {
+    "A": "what ought to be",
+    "B": "ethical judgments",
+    "C": "descriptions of how the world is",
+    "D": "political preferences"
+  },
+  "answer": "C"
+},
+{
+  "id": 235,
+  "question": "Microeconomics studies",
+  "options": {
+    "A": "individual households, firms, and markets",
+    "B": "the economy-wide inflation rate only",
+    "C": "national income only",
+    "D": "international diplomacy"
+  },
+  "answer": "A"
+},
+{
+  "id": 236,
+  "question": "Macroeconomics studies",
+  "options": {
+    "A": "a single firm’s pricing rule",
+    "B": "one consumer’s utility",
+    "C": "economy-wide phenomena such as inflation and unemployment",
+    "D": "only market demand curves"
+  },
+  "answer": "C"
+},
+{
+  "id": 237,
+  "question": "Scarcity means that society has",
+  "options": {
+    "A": "limited resources relative to wants",
+    "B": "unlimited productive capacity",
+    "C": "too much labor",
+    "D": "no need for choice"
+  },
+  "answer": "A"
+},
+{
+  "id": 238,
+  "question": "Rational people think at the margin, which means they",
+  "options": {
+    "A": "compare marginal benefits and marginal costs",
+    "B": "ignore opportunity cost",
+    "C": "always avoid risk",
+    "D": "never change their minds"
+  },
+  "answer": "A"
+},
+{
+  "id": 239,
+  "question": "An incentive is",
+  "options": {
+    "A": "a market failure",
+    "B": "a tax only",
+    "C": "something that induces a person to act",
+    "D": "a form of fixed cost"
+  },
+  "answer": "C"
+},
+{
+  "id": 240,
+  "question": "Economists use models primarily to",
+  "options": {
+    "A": "capture every real-world detail",
+    "B": "replace evidence with opinion",
+    "C": "remove all assumptions",
+    "D": "simplify reality to better understand it"
+  },
+  "answer": "A"
+},
+{
+  "id": 241,
+  "question": "Circular-flow diagrams illustrate",
+  "options": {
+    "A": "how money and goods/services flow between households and firms",
+    "B": "only how taxes are collected",
+    "C": "only trade between nations",
+    "D": "only labor markets"
+  },
+  "answer": "A"
+},
+{
+  "id": 242,
+  "question": "Households supply firms with",
+  "options": {
+    "A": "factors of production",
+    "B": "finished goods only",
+    "C": "profits only",
+    "D": "market regulation"
+  },
+  "answer": "A"
+},
+{
+  "id": 243,
+  "question": "Firms pay households in the form of",
+  "options": {
+    "A": "wages, rent, and profit income",
+    "B": "only subsidies",
+    "C": "taxes only",
+    "D": "marginal costs"
+  },
+  "answer": "C"
+},
+{
+  "id": 244,
+  "question": "If the government imposes a binding price floor in the labor market, the likely result is",
+  "options": {
+    "A": "a surplus of labor",
+    "B": "a shortage of labor",
+    "C": "lower wages",
+    "D": "zero unemployment"
+  },
+  "answer": "A"
+},
+{
+  "id": 245,
+  "question": "Minimum wage laws are an example of",
+  "options": {
+    "A": "a price ceiling",
+    "B": "a corrective tax",
+    "C": "a price floor",
+    "D": "a subsidy"
+  },
+  "answer": "C"
+},
+{
+  "id": 246,
+  "question": "Rent control is an example of",
+  "options": {
+    "A": "a price floor",
+    "B": "a price ceiling",
+    "C": "a tariff",
+    "D": "a Pigouvian tax"
+  },
+  "answer": "B"
+},
+{
+  "id": 247,
+  "question": "Black markets are more likely to arise when",
+  "options": {
+    "A": "markets are perfectly competitive",
+    "B": "there is no government intervention",
+    "C": "prices are flexible",
+    "D": "binding price controls exist"
+  },
+  "answer": "D"
+},
+{
+  "id": 248,
+  "question": "Quantity demanded refers to",
+  "options": {
+    "A": "the entire demand curve",
+    "B": "a shift in demand",
+    "C": "the amount buyers are willing and able to buy at a given price",
+    "D": "the amount sellers bring to market"
+  },
+  "answer": "C"
+},
+{
+  "id": 249,
+  "question": "Quantity supplied refers to",
+  "options": {
+    "A": "the amount buyers want at all prices",
+    "B": "the entire supply curve",
+    "C": "the amount sellers are willing and able to sell at a given price",
+    "D": "the amount government requires firms to sell"
+  },
+  "answer": "D"
+},
+{
+  "id": 250,
+  "question": "The elasticity of demand measures",
+  "options": {
+    "A": "how much quantity demanded responds to price changes",
+    "B": "how much supply shifts over time",
+    "C": "the size of total surplus",
+    "D": "the slope of marginal cost only"
+  },
+  "answer": "A"
+},
+{
+  "id": 251,
+  "question": "Demand is elastic if",
+  "options": {
+    "A": "the elasticity is less than 1",
+    "B": "buyers do not respond much to price",
+    "C": "quantity demanded does not change at all",
+    "D": "the elasticity is greater than 1"
+  },
+  "answer": "D"
+},
+{
+  "id": 252,
+  "question": "Demand is inelastic if",
+  "options": {
+    "A": "the elasticity is greater than 1",
+    "B": "buyers are highly responsive to price",
+    "C": "demand is perfectly horizontal",
+    "D": "the elasticity is less than 1"
+  },
+  "answer": "D"
+},
+{
+  "id": 253,
+  "question": "Goods with many close substitutes tend to have",
+  "options": {
+    "A": "more inelastic demand",
+    "B": "perfectly inelastic demand",
+    "C": "more elastic demand",
+    "D": "unit elastic demand only"
+  },
+  "answer": "C"
+},
+{
+  "id": 254,
+  "question": "Necessities tend to have demand that is",
+  "options": {
+    "A": "more elastic than luxuries",
+    "B": "perfectly elastic",
+    "C": "always unit elastic",
+    "D": "more inelastic than luxuries"
+  },
+  "answer": "D"
+},
+{
+  "id": 255,
+  "question": "Over a longer time horizon, demand tends to become",
+  "options": {
+    "A": "more inelastic",
+    "B": "perfectly inelastic",
+    "C": "less responsive to price",
+    "D": "more elastic"
+  },
+  "answer": "D"
+},
+{
+  "id": 256,
+  "question": "If demand is elastic, a price increase will",
+  "options": {
+    "A": "increase total revenue",
+    "B": "leave total revenue unchanged",
+    "C": "have no effect on quantity demanded",
+    "D": "decrease total revenue"
+  },
+  "answer": "D"
+},
+{
+  "id": 257,
+  "question": "If demand is inelastic, a price increase will",
+  "options": {
+    "A": "decrease total revenue",
+    "B": "increase total revenue",
+    "C": "leave total revenue unchanged",
+    "D": "reduce market power"
+  },
+  "answer": "B"
+},
+{
+  "id": 258,
+  "question": "Perfectly inelastic demand is represented by a",
+  "options": {
+    "A": "horizontal demand curve",
+    "B": "vertical demand curve",
+    "C": "downward sloping line with elasticity greater than 1",
+    "D": "curve through the origin"
+  },
+  "answer": "C"
+},
+{
+  "id": 259,
+  "question": "Perfectly elastic demand is represented by a",
+  "options": {
+    "A": "vertical line",
+    "B": "horizontal line",
+    "C": "steep downward slope",
+    "D": "curve with zero elasticity"
+  },
+  "answer": "B"
+},
+{
+  "id": 260,
+  "question": "Unit elastic demand means",
+  "options": {
+    "A": "elasticity equals zero",
+    "B": "elasticity equals one",
+    "C": "price never changes",
+    "D": "quantity demanded is fixed"
+  },
+  "answer": "B"
+},
+{
+  "id": 261,
+  "question": "A luxury good typically has demand that is",
+  "options": {
+    "A": "perfectly inelastic",
+    "B": "more inelastic than necessities",
+    "C": "more elastic",
+    "D": "vertical"
+  },
+  "answer": "C"
+},
+{
+  "id": 262,
+  "question": "Broadly defined markets tend to have demand that is",
+  "options": {
+    "A": "more elastic than narrowly defined markets",
+    "B": "perfectly elastic",
+    "C": "more inelastic than narrowly defined markets",
+    "D": "always unit elastic"
+  },
+  "answer": "C"
+},
+{
+  "id": 263,
+  "question": "A tax on a good with elastic demand tends to produce",
+  "options": {
+    "A": "small deadweight loss",
+    "B": "no deadweight loss",
+    "C": "more revenue and no distortion",
+    "D": "larger deadweight loss"
+  },
+  "answer": "D"
+},
+{
+  "id": 264,
+  "question": "If both supply and demand are very inelastic, a tax tends to create",
+  "options": {
+    "A": "a large deadweight loss",
+    "B": "no revenue",
+    "C": "a larger shortage",
+    "D": "a relatively small deadweight loss"
+  },
+  "answer": "D"
+},
+{
+  "id": 265,
+  "question": "Producer surplus is the area",
+  "options": {
+    "A": "below the demand curve and above the price",
+    "B": "above the supply curve and below the price",
+    "C": "below the supply curve and above the price",
+    "D": "above the demand curve and below the price"
+  },
+  "answer": "B"
+},
+{
+  "id": 266,
+  "question": "Consumer surplus is the area",
+  "options": {
+    "A": "above the supply curve and below the price",
+    "B": "below the demand curve and above the price",
+    "C": "above the demand curve and below the price",
+    "D": "below the supply curve and above the price"
+  },
+  "answer": "B"
+},
+{
+  "id": 267,
+  "question": "If the market price rises, producer surplus typically",
+  "options": {
+    "A": "increases",
+    "B": "decreases",
+    "C": "stays constant",
+    "D": "becomes zero"
+  },
+  "answer": "A"
+},
+{
+  "id": 268,
+  "question": "If the market price rises, consumer surplus typically",
+  "options": {
+    "A": "increases",
+    "B": "decreases",
+    "C": "stays constant",
+    "D": "becomes negative"
+  },
+  "answer": "B"
+},
+{
+  "id": 269,
+  "question": "In a free market, equilibrium occurs where",
+  "options": {
+    "A": "marginal revenue equals marginal cost",
+    "B": "consumer surplus is zero",
+    "C": "quantity demanded equals quantity supplied",
+    "D": "price equals average cost"
+  },
+  "answer": "C"
+},
+{
+  "id": 270,
+  "question": "Shortages place pressure on price to",
+  "options": {
+    "A": "fall",
+    "B": "stay constant",
+    "C": "become a price floor",
+    "D": "rise"
+  },
+  "answer": "D"
+},
+{
+  "id": 271,
+  "question": "Surpluses place pressure on price to",
+  "options": {
+    "A": "rise",
+    "B": "stay constant",
+    "C": "become inelastic",
+    "D": "fall"
+  },
+  "answer": "D"
+},
+{
+  "id": 272,
+  "question": "An increase in the number of buyers in a market tends to",
+  "options": {
+    "A": "increase demand",
+    "B": "decrease demand",
+    "C": "increase supply",
+    "D": "decrease supply"
+  },
+  "answer": "A"
+},
+{
+  "id": 273,
+  "question": "An increase in the number of sellers in a market tends to",
+  "options": {
+    "A": "increase supply",
+    "B": "decrease supply",
+    "C": "increase demand",
+    "D": "create a shortage"
+  },
+  "answer": "A"
+},
+{
+  "id": 274,
+  "question": "If demand increases and supply stays the same, equilibrium price will",
+  "options": {
+    "A": "fall",
+    "B": "stay unchanged",
+    "C": "rise",
+    "D": "become zero"
+  },
+  "answer": "C"
+},
+{
+  "id": 275,
+  "question": "If supply decreases and demand stays the same, equilibrium price will",
+  "options": {
+    "A": "fall",
+    "B": "stay unchanged",
+    "C": "increase quantity",
+    "D": "rise"
+  },
+  "answer": "D"
+},
+{
+  "id": 276,
+  "question": "If both demand and supply increase, equilibrium quantity",
+  "options": {
+    "A": "must decrease",
+    "B": "increases",
+    "C": "stays unchanged always",
+    "D": "becomes indeterminate"
+  },
+  "answer": "B"
+},
+{
+  "id": 277,
+  "question": "If both demand and supply decrease, equilibrium quantity",
+  "options": {
+    "A": "increases",
+    "B": "stays fixed",
+    "C": "decreases",
+    "D": "must rise"
+  },
+  "answer": "C"
+},
+{
+  "id": 278,
+  "question": "The price elasticity of supply is usually greater in",
+  "options": {
+    "A": "the long run",
+    "B": "the short run only",
+    "C": "markets with fixed quantity",
+    "D": "perfect monopoly only"
+  },
+  "answer": "A"
+},
+{
+  "id": 279,
+  "question": "Supply is more elastic when producers can",
+  "options": {
+    "A": "adjust production easily",
+    "B": "not change inputs at all",
+    "C": "ignore price",
+    "D": "avoid all variable costs"
+  },
+  "answer": "C"
+},
+{
+  "id": 280,
+  "question": "A good with perfectly inelastic supply has a supply curve that is",
+  "options": {
+    "A": "horizontal",
+    "B": "vertical",
+    "C": "downward sloping",
+    "D": "unit elastic"
+  },
+  "answer": "B"
+},
+{
+  "id": 281,
+  "question": "Tax revenue equals",
+  "options": {
+    "A": "the tax per unit times the quantity sold",
+    "B": "consumer surplus plus producer surplus",
+    "C": "price times quantity demanded only",
+    "D": "deadweight loss minus surplus"
+  },
+  "answer": "B"
+},
+{
+  "id": 282,
+  "question": "A corrective tax on pollution is intended to make firms consider",
+  "options": {
+    "A": "only private costs",
+    "B": "only total revenue",
+    "C": "fixed costs only",
+    "D": "the external costs they impose on society"
+  },
+  "answer": "D"
+},
+{
+  "id": 283,
+  "question": "A subsidy to higher education is often justified because education",
+  "options": {
+    "A": "creates positive externalities",
+    "B": "is a common resource",
+    "C": "always produces monopoly",
+    "D": "has no social benefits"
+  },
+  "answer": "A"
+},
+{
+  "id": 284,
+  "question": "If bargaining between private parties is costless and property rights are clear, externalities may be solved by",
+  "options": {
+    "A": "private negotiation",
+    "B": "price controls only",
+    "C": "automatic taxation",
+    "D": "market exit"
+  },
+  "answer": "A"
+},
+{
+  "id": 285,
+  "question": "A lighthouse is most commonly classified as",
+  "options": {
+    "A": "a private good",
+    "B": "a common resource",
+    "C": "a public good",
+    "D": "a normal good"
+  },
+  "answer": "C"
+},
+{
+  "id": 286,
+  "question": "Fish in the ocean are usually classified as",
+  "options": {
+    "A": "common resources",
+    "B": "public goods",
+    "C": "club goods",
+    "D": "private goods"
+  },
+  "answer": "A"
+},
+{
+  "id": 287,
+  "question": "Cable television is typically classified as",
+  "options": {
+    "A": "a club good",
+    "B": "a common resource",
+    "C": "a public good",
+    "D": "an inferior good"
+  },
+  "answer": "A"
+},
+{
+  "id": 288,
+  "question": "Because of free riding, private markets may",
+  "options": {
+    "A": "overprovide public goods",
+    "B": "efficiently provide all public goods",
+    "C": "always eliminate rivalry",
+    "D": "underprovide public goods"
+  },
+  "answer": "D"
+},
+{
+  "id": 289,
+  "question": "A firm with market power has the ability to",
+  "options": {
+    "A": "ignore demand",
+    "B": "force consumers to buy any quantity",
+    "C": "eliminate all rivals immediately",
+    "D": "influence the market price of its product"
+  },
+  "answer": "D"
+},
+{
+  "id": 290,
+  "question": "In perfect competition, firms are",
+  "options": {
+    "A": "price makers",
+    "B": "protected by entry barriers",
+    "C": "the only sellers",
+    "D": "price takers"
+  },
+  "answer": "D"
+},
+{
+  "id": 291,
+  "question": "A monopolist’s marginal revenue curve lies",
+  "options": {
+    "A": "above the demand curve",
+    "B": "on top of the demand curve",
+    "C": "equal to average total cost",
+    "D": "below the demand curve"
+  },
+  "answer": "D"
+},
+{
+  "id": 292,
+  "question": "Compared with perfect competition, monopoly tends to lead to",
+  "options": {
+    "A": "lower price and higher output",
+    "B": "equal price and equal output",
+    "C": "higher output and lower deadweight loss",
+    "D": "higher price and lower output"
+  },
+  "answer": "D"
+},
+{
+  "id": 293,
+  "question": "Free entry in monopolistic competition tends to push economic profit toward",
+  "options": {
+    "A": "a permanent positive level",
+    "B": "zero",
+    "C": "a large negative level",
+    "D": "the level of monopoly profit"
+  },
+  "answer": "B"
+},
+{
+  "id": 294,
+  "question": "A cartel seeks to act like",
+  "options": {
+    "A": "a monopoly",
+    "B": "a competitive market",
+    "C": "a labor union",
+    "D": "a public good provider"
+  },
+  "answer": "A"
+},
+{
+  "id": 295,
+  "question": "In oligopoly, each firm’s profit often depends on",
+  "options": {
+    "A": "weather only",
+    "B": "the actions of rival firms",
+    "C": "government budget surplus only",
+    "D": "fixed costs only"
+  },
+  "answer": "B"
+},
+{
+  "id": 296,
+  "question": "A natural monopoly is most likely when",
+  "options": {
+    "A": "average total cost rises sharply with output",
+    "B": "marginal revenue equals demand",
+    "C": "there are many close substitutes",
+    "D": "economies of scale are substantial"
+  },
+  "answer": "D"
+},
+{
+  "id": 297,
+  "question": "The demand for labor is a derived demand because it depends on",
+  "options": {
+    "A": "the supply of labor only",
+    "B": "government wage laws only",
+    "C": "the fixed cost of production only",
+    "D": "the demand for the goods and services labor helps produce"
+  },
+  "answer": "D"
+},
+{
+  "id": 298,
+  "question": "Firms maximize profit in hiring by employing labor until",
+  "options": {
+    "A": "marginal product equals zero",
+    "B": "average product equals wage",
+    "C": "total revenue is zero",
+    "D": "value of marginal product equals wage"
+  },
+  "answer": "D"
+},
+{
+  "id": 299,
+  "question": "The value of marginal product is calculated as",
+  "options": {
+    "A": "marginal product times output price",
+    "B": "wage times labor quantity",
+    "C": "total revenue minus total cost",
+    "D": "price divided by marginal product"
+  },
+  "answer": "A"
+}
+   ];
     
