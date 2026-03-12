@@ -2200,6 +2200,7 @@
       "C": "make all firms identical",
       "D": "increase worker productivity, loyalty, or effort"
     },
-    "answer": "D"
-  }
+      "answer": "D"
+}
+];
     
