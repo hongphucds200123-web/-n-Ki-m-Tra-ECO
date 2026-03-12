@@ -2201,5 +2201,5 @@
       "D": "increase worker productivity, loyalty, or effort"
     },
     "answer": "D"
-  };
+  }
     
