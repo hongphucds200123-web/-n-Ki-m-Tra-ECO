@@ -1153,15 +1153,12 @@
     "A": "P = MC",
     "B": "P = MR",
     "C": "MR = MC",
-    "D": "ATC is minimized"
-  },
-  "answer": "C"
+   "D": "ATC is minimized"
 },
-    },
-    "answer": "C"
-  },
-  {
-    "id": 106,
+"answer": "C"
+},
+{
+  "id": 106,
     "question": "Compared with a competitive market, a monopoly tends to charge",
     "options": {
       "A": "a lower price and produce more output",
